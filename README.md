@@ -6,7 +6,7 @@ A full list of open source apps, not library but full functional application.
 
 - [eidolon](https://github.com/artsy/eidolon)  The Artsy Auction Kiosk App
 - [News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone)  The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
-- [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp)  https://github.com/MengTo/DesignerNewsApp
+- [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp)  Build a Swift App as a designer http://designcode.io
 
 ## iOS-Objective-C
 
