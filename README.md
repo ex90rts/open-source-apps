@@ -9,6 +9,10 @@ A full list of open source apps, not library but full functional application.
 - [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp)  Build a Swift App as a designer http://designcode.io
 - [The-Oakland-Post](https://github.com/aclissold/The-Oakland-Post)
 - [WWDC](https://github.com/insidegui/WWDC)  WWDC app for OS X
+- [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U)  Well architectured RSS reader app written in Swift
+- [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)  Swift精仿知乎日报iOS端
+- [wh-app-ios](https://github.com/WhiteHouse/wh-app-ios)  White House for iOS mobile application
+- [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)  WordPress for iOS 
 
 ## iOS-Objective-C
 
